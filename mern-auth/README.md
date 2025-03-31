@@ -1,4 +1,4 @@
-# Broken MERN Authentication Project
+# MERN Authentication Project
 
 This project is intentionally broken and contains security vulnerabilities in authentication. Your task is to identify and fix these issues.
 
